@@ -22,8 +22,8 @@ AtliQ Hardware is a fictional company created for the purpose of this project. T
 
 The sales reports include details such as:
 - Customer performance
-- Market oerformance
-- Top-oerforming products
+- Market performance
+- Top-performing products
 - Division level report
 - Most/Least selling products
 - New products performance in 2021
